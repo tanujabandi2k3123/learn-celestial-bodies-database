@@ -21,3 +21,26 @@
 2024-08-03 07:33:15.383 [info] Using in-memory cached assignable users.
 2024-08-03 07:33:15.404 [info] Review+0> No matching pull request metadata found locally for current branch master
 2024-08-03 07:33:15.427 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-03 07:33:50.786 [info] Review+0> Validate state in progress
+2024-08-03 07:33:50.786 [info] Review+0> Validating state...
+2024-08-03 07:33:50.789 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-03 07:33:50.790 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-03 07:33:50.790 [info] Using in-memory cached assignable users.
+2024-08-03 07:33:50.808 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-03 07:33:50.827 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-03 07:34:54.697 [info] Review+0> Validate state in progress
+2024-08-03 07:34:54.697 [info] Review+0> Validating state...
+2024-08-03 07:34:54.745 [info] Review+0> Queuing additional validate state
+2024-08-03 07:34:54.963 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-03 07:34:54.963 [info] Using in-memory cached assignable users.
+2024-08-03 07:34:54.978 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-03 07:34:54.988 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-03 07:34:56.139 [info] Review+0> Validating state...
+2024-08-03 07:34:56.402 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-03 07:34:56.703 [info] Trying to use globalState for assignableUsers.
+2024-08-03 07:34:56.848 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-03 07:34:56.868 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-03 07:34:57.135 [info] Found GitHub remote for folder /workspace/.vscode-remote
+2024-08-03 07:34:57.136 [info] Trying to use globalState for assignableUsers.
+2024-08-03 07:34:57.274 [info] GlobalState does not exist for assignableUsers.
+2024-08-03 07:34:57.593 [info] GlobalState does not exist for assignableUsers.

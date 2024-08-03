@@ -1,0 +1,23 @@
+2024-08-03 07:33:04.566 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2024-08-03 07:33:04.566 [info] Activation> Extension version: 0.92.0
+2024-08-03 07:33:08.798 [info] Looking for git repository
+2024-08-03 07:33:08.798 [info] Found 0 repositories during activation
+2024-08-03 07:33:08.798 [info] Git repository found, initializing review manager and pr tree view.
+2024-08-03 07:33:08.802 [info] Registering git provider
+2024-08-03 07:33:08.802 [info] Review+0> Validate state in progress
+2024-08-03 07:33:08.802 [info] Review+0> Validating state...
+2024-08-03 07:33:08.803 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-03 07:33:08.803 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-03 07:33:08.803 [info] Trying to use globalState for assignableUsers.
+2024-08-03 07:33:08.816 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-03 07:33:08.824 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-03 07:33:09.109 [info] GlobalState does not exist for assignableUsers.
+2024-08-03 07:33:15.382 [info] Review+0> Validate state in progress
+2024-08-03 07:33:15.382 [info] Review+0> Validating state...
+2024-08-03 07:33:15.382 [info] Repo state for file:///workspace/.vscode-remote changed.
+2024-08-03 07:33:15.382 [info] Repo file:///workspace/.vscode-remote has already been setup.
+2024-08-03 07:33:15.383 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-03 07:33:15.383 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-03 07:33:15.383 [info] Using in-memory cached assignable users.
+2024-08-03 07:33:15.404 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-03 07:33:15.427 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
